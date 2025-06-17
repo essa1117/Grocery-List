@@ -1,33 +1,43 @@
 {
   "items": [
     {
-      "id": "2",
-      "text": "This is the task hanna2",
-      "checked": true
-    },
-    {
-      "id": "3",
-      "text": "This is the task jad 3",
-      "checked": true
-    },
-    {
-      "id": "4",
-      "text": "This is the task wadea 4",
+      "id": 1,
+      "text": "Meat",
       "checked": false
     },
     {
-      "id": "41",
-      "text": "Issa",
-      "checked": true
-    },
-    {
-      "id": "411",
-      "text": "jad",
+      "id": 2,
+      "text": "karrot",
       "checked": false
     },
     {
-      "id": "4111",
-      "text": "jad",
+      "id": 3,
+      "text": "Banana",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "text": "Apple",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "text": "Milk",
+      "checked": false
+    },
+    {
+      "id": 6,
+      "text": "Eggs",
+      "checked": false
+    },
+    {
+      "id": 7,
+      "text": "Tomato",
+      "checked": false
+    },
+    {
+      "id": 8,
+      "text": "Orange",
       "checked": false
     }
   ]

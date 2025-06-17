@@ -18,7 +18,7 @@ function App() {
   const [items, setItems] = useState<item[]>([]);
   const [newItem, setNewItem] = useState("");
   const [searchText, setSearchText] = useState("");
-  const API_URL = "data/Data.json";
+  const API_URL = "http://localhost:3000/items";
   const [fetshError, setFetshError] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
 
